@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi peers 👋
 - 🔭 I’m currently working on Web Application Development and Android Application Development.
 - 🌱 I’m currently learning Responsive Frontend Designs and API handling.
 - 👯 I’m looking to collaborate on Web Development and Android Development Projects.
